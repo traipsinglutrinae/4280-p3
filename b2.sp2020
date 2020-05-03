@@ -1,0 +1,6 @@
+data x = 1 .
+data y = 2 .
+begin
+  data y = 3 .
+  out 1 .
+end
